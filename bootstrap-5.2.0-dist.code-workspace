@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "bootstrap-5.2.0-dist",
+			"path": "..\\..\\bootstrap-5.2.0-dist"
+		},
+		{
+			"name": "bootstap",
+			"path": "..\\..\\bootstap"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "home-work9"
+	}
+}
